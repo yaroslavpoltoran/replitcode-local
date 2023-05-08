@@ -4,6 +4,8 @@
   "description": "Extensiom to work with replit-code-v1-3b language model",
   "version": "0.1.0",
   "publisher": "poltoran",
+  "homepage": "https://github.com/yaroslavpoltoran/replitcode-local",
+	"repository": "https://github.com/yaroslavpoltoran/replitcode-local",
   "engines": {
     "vscode": "^1.78.0"
   },
